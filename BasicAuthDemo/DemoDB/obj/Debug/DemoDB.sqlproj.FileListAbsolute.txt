@@ -1,0 +1,5 @@
+E:\Other\Uni\Diploma\Semester 2\Programming\Week 7\BasicAuthDemo\DemoDB\bin\Debug\DemoDB.dacpac
+E:\Other\Uni\Diploma\Semester 2\Programming\Week 7\BasicAuthDemo\DemoDB\bin\Debug\DemoDB.dll
+E:\Other\Uni\Diploma\Semester 2\Programming\Week 7\BasicAuthDemo\DemoDB\bin\Debug\DemoDB.pdb
+E:\Other\Uni\Diploma\Semester 2\Programming\Week 7\BasicAuthDemo\DemoDB\obj\Debug\DemoDB.dll
+E:\Other\Uni\Diploma\Semester 2\Programming\Week 7\BasicAuthDemo\DemoDB\obj\Debug\DemoDB.pdb
